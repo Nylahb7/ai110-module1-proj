@@ -47,6 +47,7 @@ Lexicographically, "9" > "20" is True because '9' (ASCII 57) > '2' (ASCII 50) th
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
+Streamlit reruns the script from top to bottom whenever something changes and session state is how you save values so they don't disappear during reruns.
 
 ---
 
@@ -54,5 +55,10 @@ Lexicographically, "9" > "20" is True because '9' (ASCII 57) > '2' (ASCII 50) th
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+Giving multi-step instructions and attatching relevant files. I will also keep using the terminal to commit changes here on out.
+
 - What is one thing you would do differently next time you work with AI on a coding task?
+Next time I will be sure to seperate my sessions accordingly and name each session based on what I did. 
+
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+This project helped me become more confident in AI generated code.
